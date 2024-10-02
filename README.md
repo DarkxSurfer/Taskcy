@@ -58,11 +58,11 @@ Features
 
  #### Clone the repository:
 
-    git clone https://github.com/Anashabib12/Event_App.git
+    git clone https://github.com/DarkxSurfer/Taskcy.git
 
 #### Navigate to the project directory:
 
-    cd Event_App
+    cd Taskcy
 
 #### Install the required dependencies:
 
