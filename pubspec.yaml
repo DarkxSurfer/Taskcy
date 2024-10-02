@@ -1,0 +1,50 @@
+name: event_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+    # Package
+  smooth_page_indicator: ^1.2.0+3
+  iconsax: ^0.0.8
+  get: ^4.6.6
+  jiffy: ^6.3.1
+  percent_indicator: ^4.2.3
+  table_calendar: ^3.1.2
+  intl: ^0.19.0
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.3.0
+  cloud_firestore: ^5.4.2
+  firebase_storage: ^12.3.1
+  image_picker: ^1.1.2
+  provider: ^6.1.2
+  font_awesome_flutter: ^10.7.0
+  shared_preferences: ^2.3.2
+  lottie: ^3.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - Assets/onBoarding/
+    - Assets/onBoarding/OnBoarding2/
+    - Assets/onBoarding/OnBoarding3/
+    - Assets/social Logo/
+    - Assets/ChatPerson/
+    - Assets/Animation/
+    - Assets/logos/
+    - Assets/person/
+    - Assets/icons/
+    - Assets/getStarted/
+    - Assets/ChatPerson/
